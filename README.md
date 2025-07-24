@@ -57,6 +57,6 @@ Contributions are welcome! Please submit a pull request or reach out for suggest
 
 ---
 
-**Project Author**: Sujit Mahapatra  
-**Contact**: [LinkedIn](https://www.linkedin.com/in/mr-sm25/)
+**Project Author**: Aditya Chamadia
+**Contact**: [LinkedIn](https://www.linkedin.com/in/aditya-chamadia/)
 
